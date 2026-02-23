@@ -16,6 +16,7 @@ public class SolidStarPattern {
         System.out.println();
 
     }
-    sc.close();
+    
 }
+
 }
